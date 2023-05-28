@@ -8,7 +8,7 @@ export default function Navbar() {
         
             <>
             <nav className=' flex justify-between h-12 text-green-400 bg-black   font-bold' >
-                <span className='mx-20 my-2 flex text-green-400 text-2xl  '><Link href={"/"}>Stogram</Link></span>
+                <span className='mx-20 my-2 flex text-green-400 text-2xl  '><Link href={"/"}>Raise</Link></span>
                 <ul className= 'px-2 py-3 flex space-x-10 mx-12 '>
 
         <div className='hover:text-white delay-50  text-md font-semibold font-mono'>
